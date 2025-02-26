@@ -1,4 +1,6 @@
 # Financial Loan Assessment
+# My Tableau Dashboard
+Check out my Tableau Dashboard on [Tableau Public](https://public.tableau.com/app/profile/aditi.patil.raman2773/viz/FinancialLoanAssessment/SummaryDashboard)
 
 In this project, I uploaded and transformed loan data from a CSV file to MS SQL Server, performing data cleaning and error correction to ensure accuracy. I developed key performance indicators (KPIs) for loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. Using these KPIs, I distinguished between 'Performing loans' and 'Non-Performing loans' to evaluate loan quality. Additionally, I designed Tableau dashboards to visualize loan metrics, including summary, overview, and detailed views of trends. SQL queries in SQL Server Management Studio were used to ensure the accuracy of the dashboard calculations.
 
